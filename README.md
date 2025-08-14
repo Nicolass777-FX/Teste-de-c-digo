@@ -19,3 +19,7 @@ if acesso:
   print("Acesso permitido ao escritório.")
 else:
   print("Acesso negado ao escritório.")
+
+Esse código é dos bons.
+
+:)
